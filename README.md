@@ -83,5 +83,3 @@ weather-dashboard/
 
 ---
 
-**License:** MIT
-
